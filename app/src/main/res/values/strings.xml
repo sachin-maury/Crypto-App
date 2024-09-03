@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Crypto</string>
+    <string name="search">Search</string>
+    <string name="symbol">Symbol</string>
+    <string name="price">Price</string>
+    <string name="name">name</string>
+</resources>
